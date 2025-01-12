@@ -1,4 +1,4 @@
-![Pantheon Logo](path/to/pantheon-logo.png)
+![Pantheon Logo](https://pantheon.io/)
 
 # Run exceptional web experiences on one platform
 
