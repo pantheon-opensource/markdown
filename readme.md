@@ -1,4 +1,4 @@
-![Pantheon Logo](https://pantheon.io/)
+![Pantheon Logo](https://github.com/pantheon-opensource/markdown/blob/4cd7aa4d41f43672ca1f8fbfe06882811d8f396a/pantheon-logo.svg)
 
 # Run exceptional web experiences on one platform
 
