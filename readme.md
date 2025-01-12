@@ -60,14 +60,4 @@ How organizations like yours do more with Pantheon:
 - **Ian Stanton**, VP, Demand Generation and Digital
 - **Rob DeChiaro**, Chief Operating Officer
 - **Anthony June**, Application Manager at Macomb County
-
-## Footer
-
-- Contact Us: 1-855-927-9387
-- About
-- Privacy Policy
-- Data Subject Request
-- Cookie Policy
-- Terms of Use
-
-© 2025 Pantheon Systems, Inc.
+- 
